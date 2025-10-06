@@ -99,3 +99,23 @@ Technologies Used:
 - BlueJ IDE
 - Object-Oriented Programming
 - GitHub & Version Control
+
+Assignment 2: Enhanced Features
+
+### New Capabilities Added:
+- **Random Instance Generation**: Dynamic creation of Song/Genre objects
+- **Array Sorting**: Implements `Comparable<Music>` for natural ordering by title
+- **Time Complexity Analysis**: Benchmarks algorithm performance with Big O notation
+- **Professional Benchmarking**: Measures execution time with nanosecond precision
+
+### Technical Implementation:
+- **Comparable Interface**: Enables `Arrays.sort()` with custom comparison logic
+- **Polymorphic Sorting**: Different object types sorted in same array
+- **Algorithm Analysis**: O(n log n) time complexity demonstrated
+- **Dynamic Generation**: Random properties for realistic test data
+
+### Learning Outcomes:
+- Understanding sorting algorithms and their efficiency
+- Practical application of time complexity concepts
+- Professional code benchmarking techniques
+- Enhanced OOP design with interface implementation
