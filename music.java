@@ -1,6 +1,4 @@
-
-
-public abstract class music
+public abstract class music implements Comparable<music>
 {
   private String title;
   private int length;
@@ -24,5 +22,9 @@ public abstract class music
   @Override
   public String toString() {
       return "Title: " + title + ", Length: " + length;
+  }
+  @Override
+  public int compareTo(music other) {
+      return this.title.compareTo(other.title);
   }
 }
