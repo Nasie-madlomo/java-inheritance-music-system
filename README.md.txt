@@ -119,3 +119,27 @@ Assignment 2: Enhanced Features
 - Practical application of time complexity concepts
 - Professional code benchmarking techniques
 - Enhanced OOP design with interface implementation
+
+## 🎮 Snake Game Extension
+
+### Advanced Java Application
+A complete console-based Snake game demonstrating real-world software development skills.
+
+**Key Features:**
+- Custom ArrayList implementation (`MyArrayListHM`) for snake body management
+- Boundary wrapping mechanics
+- Collision detection systems  
+- Real-time user input handling
+- Complete game loop architecture
+
+**Technical Achievements:**
+- Implemented and utilized custom data structures
+- Designed and built interactive game mechanics
+- Applied OOP principles to game development
+- Created professional-grade error handling
+
+**Learning Outcomes:**
+- Game development fundamentals
+- Real-time input processing
+- Algorithm optimization for game loops
+- Data structure application in practical scenarios
